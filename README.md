@@ -12,7 +12,7 @@
 
 <br/>
 
-> **A full-stack, role-based hostel management system engineered for SRM University (Vadapalani Campus).**  
+> **A full-stack, role-based hostel management system engineered**  
 > Digitizes the entire hostel lifecycle — from meal scheduling and food complaints to multi-tier leave approvals, room maintenance dispatch, attendance tracking, and parent oversight — all through dedicated, access-controlled portals.
 
 <br/>
@@ -520,17 +520,8 @@ chore:    Maintenance
 
 <br/>
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
-<br/>
-
----
-
 <div align="center">
 
-**Built with ❤️ for SRM University, Vadapalani Campus**
 
 *Digitizing hostel operations, one module at a time.*
 
